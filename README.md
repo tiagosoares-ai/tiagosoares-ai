@@ -53,7 +53,6 @@ Business automation and intelligent customer follow-up system.
 
 Technical studies, practical experiments and projects developed throughout my AI Engineering education.
 
-## GitHub Activity
 
 ---
 
