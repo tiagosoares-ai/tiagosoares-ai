@@ -55,8 +55,6 @@ Technical studies, practical experiments and projects developed throughout my AI
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagosoares-ai&show_icons=true&bg_color=101010&title_color=0066FF&icon_color=0066FF&text_color=FFFFFF&hide_border=true)
-
 ---
 
 <p align="center">
